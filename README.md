@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Morshedy</h1>
 <h3 align="center">Frontend Developer • UI Lover • JavaScript Enthusiast . React & Next.js & Typescript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talkativeuser&label=Profile%20views&color=0e75b6&style=flat" alt="talkativeuser" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talkativeuser" alt="talkativeuser" /></a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
 
 - 🔭 I’m currently working on [Techify](smart-edu-center.vercel.app)
 
