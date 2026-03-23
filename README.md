@@ -53,9 +53,9 @@ I am a passionate **Frontend Developer** with a strong focus on building high-pe
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
 </a>
 <a href="mailto:morshedy480@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="45" />
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" />
 </a>
-<a href="https://facebook.com/YOUR_FB_ID" target="_blank">
+<a href="https://www.facebook.com/mhmd.mrshdy.542668/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
 </a>
 <a href="https://www.behance.net/mohamedkhfagy" target="_blank">
