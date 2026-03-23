@@ -49,6 +49,10 @@ I am a passionate **Frontend Developer** with a strong focus on building high-pe
 <a href="https://stackoverflow.com/users/22276470" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="35" width="45" />
 </a>
+  <!-- Instagram -->
+<a href="https://www.instagram.com/mrshdy700/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
 <a href="https://leetcode.com/u/mohammedmorshedy/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
 </a>
