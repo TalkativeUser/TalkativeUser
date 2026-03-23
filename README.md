@@ -44,22 +44,22 @@ I am a passionate **Frontend Developer** with a strong focus on building high-pe
 ### 🌐 Connect with me  
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-morshidy-khfagy" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
 </a>
 <a href="https://stackoverflow.com/users/22276470" target="_blank">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="35" width="45" />
 </a>
 <a href="https://leetcode.com/u/mohammedmorshedy/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
 </a>
 <a href="mailto:morshedy480@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="45" />
 </a>
-<a href="https://www.facebook.com/mhmd.mrshdy.542668/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+<a href="https://facebook.com/YOUR_FB_ID" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
 </a>
 <a href="https://www.behance.net/mohamedkhfagy" target="_blank">
-  <img src="https://skillicons.dev/icons?i=behance" width="45"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="35" width="45" />
 </a>
 </p>
 
