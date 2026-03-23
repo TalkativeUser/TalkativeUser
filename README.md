@@ -41,12 +41,26 @@ I am a passionate **Frontend Developer** with a strong focus on building high-pe
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with me  
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-morshidy-khfagy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-<a href="https://stackoverflow.com/users/22276470" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="25" /></a>
-<a href="https://leetcode.com/u/mohammedmorshedy/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="25" /></a>
-<a href="mailto:morshedy480@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+<a href="https://www.linkedin.com/in/mohammed-morshidy-khfagy" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+<a href="https://stackoverflow.com/users/22276470" target="_blank">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/>
+</a>
+<a href="https://leetcode.com/u/mohammedmorshedy/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+</a>
+<a href="mailto:morshedy480@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+<a href="https://www.facebook.com/mhmd.mrshdy.542668/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+</a>
+<a href="https://www.behance.net/mohamedkhfagy" target="_blank">
+  <img src="https://skillicons.dev/icons?i=behance" width="45"/>
+</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TalkativeUser&label=Profile%20views&color=0e75b6&style=flat" alt="talkativeuser" /> </p>
